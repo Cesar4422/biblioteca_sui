@@ -42,3 +42,15 @@ sui client call \
   --function prestar_libro \
   --args 0xc6bca8c1b3dc32a12f36ffa4d2ecd0b1d6ad189fa55fa0b6cf053eadfd1832d1 0x83f09ba469359be378332744b9f8dfd09f4c2925b13c0f6899c6da39b042f166 0x6 \
   --gas-budget 30000000
+
+## Información del Contrato (MAINNET)
+
+El contrato ha sido desplegado exitosamente en la red principal de Sui, haciéndolo una aplicación descentralizada permanente y pública.
+
+- **Package ID:** `0xd53ddf99f9f1c41b4c98c372d11778ae1813345ceb5acb1a484a292372a71f59`
+- **Ver en Explorador SuiVision:** [Enlace al Paquete en Mainnet](https://suivision.xyz/package/0xd53ddf99f9f1c41b4c98c372d11778ae1813345ceb5acb1a484a292372a71f59)
+- **Ver en Explorador SuiScan:** [Enlace al Paquete en Mainnet](https://suiscan.xyz/mainnet/package/0xd53ddf99f9f1c41b4c98c372d11778ae1813345ceb5acb1a484a292372a71f59)
+
+### Objeto de Administrador Creado
+
+- **AdminCap ID:** `0xf575e6d7101b9f3802b5b11c183b49783527f67146b1077807822f21a1553779`
